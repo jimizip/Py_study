@@ -5,4 +5,3 @@ def print_hello(s) :
 p = print_hello
 p(123)
 p('hello')
-
