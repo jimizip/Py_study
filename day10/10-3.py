@@ -6,6 +6,6 @@ class BaseA :
 class B(BaseA) : 
   def __init__(self) :
     print('B.__init__()')
-    super().__init__() 
+    super().__init__()
 
 b = B()

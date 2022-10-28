@@ -2,3 +2,4 @@
 
 txt1 = 'aAbBcCdDeEfFgGhH'
 print(txt1[0:18:2])
+print(txt1[::2])
